@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+A .git directory is created in rhe repository. I need to run the command git init 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is an area where you add files which are ready to be commited. Working directory consists of all the files. And repository consists of all the files including the .git folder. 
+Staging area helps in differentiating which files one is ready to commit.
